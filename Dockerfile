@@ -1,2 +1,2 @@
 FROM centos:latest
-COPY someFile.txt
+COPY someFile.txt .
